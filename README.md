@@ -3,30 +3,33 @@
 </p>
 
 # 👋 Hola, soy Piero Cordova
-### 🚀 Ingeniero de Sistemas | Full Stack Developer & Data Enthusiast
+### 🚀 Software Engineer & Infrastructure Enthusiast | Full Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pjcordova&label=Profile%20views&color=0e75b6&style=flat-square" alt="pjcordova" />
 </p>
 
 ## 💡 Sobre mí
-Soy estudiante de **Ingeniería de Sistemas e Informática** en la UTP. Mi perfil es único: combino una sólida formación técnica con una valiosa experiencia previa en **logística y gestión de inventarios (Oracle WMS)**. 
+Soy estudiante de **Ingeniería de Sistemas e Informática** en la UTP. Mi enfoque principal es la creación de soluciones escalables y eficientes. Poseo una sólida base en el manejo de datos y procesos industriales gracias a mi experiencia previa con **Oracle WMS**.
 
-Esta trayectoria me permite entender el software no solo como código, sino como una herramienta para optimizar procesos reales. Me especializo en crear aplicaciones modernas, escalables y orientadas a la eficiencia de datos.
+Hoy en día, me especializo en arquitecturas modernas, dominando tanto el desarrollo **Frontend (Angular/Vue)** como el **Backend (Java/Python/Node.js)** y la gestión de infraestructura con **Docker y AWS**.
 
-- 🌱 **Especializándome en:** Arquitecturas robustas con Angular y TypeScript.
-- ⚙️ **Mi fuerte:** El diseño de bases de datos relacionales y la lógica de negocio compleja.
-- 🎯 **Objetivo:** Desarrollar soluciones tecnológicas que transformen la operatividad empresarial.
+- 🌱 **Especializándome en:** Cloud Computing (AWS) y Microservicios.
+- ⚙️ **Mi fuerte:** Optimización de procesos, gestión de bases de datos y despliegue de aplicaciones.
+- 🎯 **Objetivo:** Desarrollar software de alto impacto que transforme la operatividad empresarial.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-### 💻 Frontend & Design
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,figma,ps,ai)](https://skillicons.dev)
+### 🎨 Frontend & Design
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,figma)](https://skillicons.dev)
 
-### ⚙️ Backend & Environment
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,github,vscode,debian)](https://skillicons.dev)
+### 💻 Backend & Programming
+[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,express,github,vscode)](https://skillicons.dev)
+
+### ☁️ Infrastructure & Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,debian)](https://skillicons.dev)
 
 ### 📊 Databases & Servers
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle)](https://skillicons.dev)
@@ -36,12 +39,12 @@ Esta trayectoria me permite entender el software no solo como código, sino como
 
 ## 🚀 Proyectos Destacados
 
-* **[Sistema de Gestión de Inventarios](https://github.com/pjcordova/proyecto1)**
-    > Un CRUD avanzado desarrollado con **React** y **MySQL**, diseñado bajo la lógica de flujos de almacén reales.
-* **[Plataforma de Control Logístico](https://github.com/pjcordova/proyecto2)**
-    > Implementación de interfaces dinámicas y seguras utilizando **Angular** y **TypeScript**.
-* **[Optimización de Consultas SQL](https://github.com/pjcordova/proyecto2)**
-    > Estructuración de bases de datos complejas en **PostgreSQL** y **Oracle** para manejo de grandes volúmenes de información.
+* **[Sistema de Inventario Pro](https://github.com/pjcordova/proyecto1)**
+    > Solución Full Stack con **React**, **Node.js** y **MySQL**, dockerizada para un despliegue rápido.
+* **[Dashboard Logístico en la Nube](https://github.com/pjcordova/proyecto2)**
+    > Interfaz dinámica con **Vue.js** y backend en **Java**, desplegado utilizando servicios de **AWS**.
+* **[Analítica de Datos con Python](https://github.com/pjcordova/proyecto2)**
+    > Scripts automatizados para el procesamiento de grandes volúmenes de datos provenientes de **Oracle DB**.
 
 ---
 
