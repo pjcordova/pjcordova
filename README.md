@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Piero Cordova
 
-<!--
-**pjcordova/pjcordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas e Informática en la UTP  
+💻 Interesado en desarrollo web, bases de datos y soluciones tecnológicas  
+🌱 Actualmente aprendiendo **JavaScript, React y MySQL**  
+🔧 Experiencia en ventas, logística e inventarios con uso de **Oracle WMS**  
+📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:tuemail@ejemplo.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Lenguajes:** JavaScript, SQL  
+- **Frameworks:** React  
+- **Herramientas:** Visual Studio, Microsoft Office, Adobe Suite  
+- **Idiomas:** Inglés avanzado  
+
+---
+
+## 📊 GitHub Stats
+![Piero's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjcordova&show_icons=true&theme=radical)
+
