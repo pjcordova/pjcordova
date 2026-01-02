@@ -4,7 +4,7 @@
 💻 Apasionado por el desarrollo web, bases de datos y soluciones tecnológicas  
 🌱 Actualmente aprendiendo **Node.js, React y MySQL**  
 🔧 Experiencia en ventas, logística e inventarios con uso de **Oracle WMS**  
-📫 Cómo contactarme: [LinkedIn](https://linkedin.com/in/tuusuario) | [Email](mailto:tuemail@ejemplo.com)
+📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/piero-cordova-cerna-5a9886318/) | [Email](mailto:cordova23piero@gmail.com)
 
 ---
 
@@ -30,11 +30,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Piero's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjcordova&show_icons=true&theme=radical)
+![Piero's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjcordova&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjcordova&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tuusuario)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/piero-cordova-cerna-5a9886318/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:cordova23piero@gmail.com)
