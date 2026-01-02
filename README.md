@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hola, soy Piero Cordova
-### 🚀 Futuro Ingeniero de Sistemas | Full Stack Developer & Data Enthusiast
+### 🚀 Ingeniero de Sistemas | Full Stack Developer & Data Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pjcordova&label=Profile%20views&color=0e75b6&style=flat-square" alt="pjcordova" />
