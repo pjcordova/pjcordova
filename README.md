@@ -19,14 +19,14 @@
 </p>
 
 ## 💡 Sobre mí
-Ingeniero de Sistemas en formación (UTP) enfocado en **Arquitectura de Datos** y **Desarrollo Cloud**. 
+Ingeniero de Sistemas en formación (UTP) enfocado en **Arquitectura de Datos**, **Machine Learning** y **Desarrollo Cloud**. 
 
-Mi background manejando lógica de negocio en **Oracle WMS** me permite entender no solo el código, sino el *flujo operativo* de los datos en entornos logísticos e industriales. Actualmente, diseño soluciones que conectan bases de datos transaccionales con dashboards de alto impacto.
+Mi background manejando lógica de negocio en **Oracle WMS** me permite entender no solo el código, sino el *flujo operativo* de los datos en entornos logísticos e industriales. Actualmente, diseño soluciones que conectan bases de datos transaccionales con dashboards de predicción.
 
-- 🔭 **Actualmente trabajando en:** Portafolio Full Stack con **Supabase (PostgreSQL)** y **Python**.
-- 🌱 **Especializándome en:** Data Engineering Pipelines & Cloud Architecture.
+- 🔭 **Actualmente trabajando en:** Portafolio Full Stack con **Supabase**, **Scikit-Learn** y **Python**.
+- 🌱 **Especializándome en:** Data Engineering Pipelines & AI Integration.
 - ⚙️ **Mi Stack Favorito:** Python + SQL + Streamlit + Cloud DBs.
-- 🎯 **Objetivo:** Construir sistemas ETL resilientes y escalables.
+- 🎯 **Objetivo:** Construir sistemas que transformen datos crudos en predicciones de negocio.
 
 ---
 
@@ -35,17 +35,27 @@ Mi background manejando lógica de negocio en **Oracle WMS** me permite entender
 ### ☁️ Cloud & Database Architecture
 [![My Skills](https://skillicons.dev/icons?i=supabase,postgres,aws,mysql,oracle,docker,linux)](https://skillicons.dev)
 
-### 📊 Data Science & Backend logic
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,fastapi,java)](https://skillicons.dev)
+### 📊 Data Science & AI
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,fastapi,java)](https://skillicons.dev)
 
 ### 🎨 Frontend & Visualization
 [![My Skills](https://skillicons.dev/icons?i=streamlit,powerbi,react,html,css,git,github)](https://skillicons.dev)
 
 ---
 
-## 🚀 Proyecto Insignia: Data Engineering Portfolio
+## 🚀 Proyectos Destacados (Repositorios)
 
-> **[Ver Aplicación en Vivo](https://pjcordova-portafolio.streamlit.app)** > Un sistema centralizado Full Stack desplegado en la nube.
+| Proyecto | Rol & Tech Stack | Descripción |
+| :--- | :--- | :--- |
+| **[🏭 Enterprise ERP Data Warehouse](https://github.com/pjcordova/enterprise-erp-sql-project)** | **Data Engineer** <br> `Python` `SQL` `ETL` | Infraestructura de datos corporativa con Triggers, Stored Procedures y arquitectura Snowflake en la nube. |
+| **[🤖 Peru Market Predictor](https://github.com/pjcordova/peru-market-predictor)** | **Data Scientist** <br> `Scikit-Learn` `Time-Series` | Sistema de predicción financiera con IA que proyecta tendencias económicas a 30 días. |
+| **[🛒 Retail Inventory BI](https://github.com/pjcordova/retail-inventory-analytics)** | **BI Analyst** <br> `Power BI` `DAX` `Modeling` | Dashboard estratégico para control de mermas y optimización de stock (Pareto ABC). |
+
+---
+
+## 🌟 Proyecto Insignia: Portafolio Centralizado
+
+> **[Ver Aplicación en Vivo](https://pjcordova-portafolio.streamlit.app)** > Plataforma que integra todos los proyectos anteriores en una sola interfaz web.
 
 **Arquitectura del Sistema:**
 ```mermaid
@@ -53,5 +63,6 @@ graph LR
     User([Usuario / Reclutador]) -- HTTPS --> Streamlit(Frontend App)
     Streamlit -- Python Driver --> Pooler{Connection Pooler}
     Pooler -- Puerto 6543 --> Supabase[(Supabase PostgreSQL)]
-    Supabase -- Datos JSON --> Streamlit
+    Streamlit -- Datos Históricos --> MLEngine(AI Engine / Scikit-Learn)
+    MLEngine -- Predicción Futura --> Streamlit
     Streamlit -- Render --> User
