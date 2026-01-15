@@ -1,79 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Piero%20Cordova&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=220&section=header&text=Piero%20Cordova&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
   <a href="https://pjcordova-portafolio.streamlit.app">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App"/>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=linkedin" alt="Open to Work"/>
+  </a>
+  <a href="https://pjcordova-portafolio.streamlit.app">
+    <img src="https://img.shields.io/badge/App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App"/>
   </a>
 </p>
 
 # 👋 Hola, soy Piero Cordova
-### 🚀 Data Engineer | Software Engineer | Full Stack Developer
+### 🚀 Data Engineer | Cloud Systems Integrator | Full Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pjcordova&label=Profile%20views&color=0e75b6&style=flat-square" alt="pjcordova" />
 </p>
 
 ## 💡 Sobre mí
-Soy estudiante de **Ingeniería de Sistemas e Informática** en la UTP, apasionado por transformar datos en decisiones estratégicas. Mi experiencia con **Oracle WMS** me dio una base sólida en procesos industriales, y ahora combino eso con el desarrollo moderno.
+Ingeniero de Sistemas en formación (UTP) enfocado en **Arquitectura de Datos** y **Desarrollo Cloud**. 
 
-Me especializo en crear puentes entre la ingeniería de software y la analítica de datos, construyendo pipelines ETL, dashboards interactivos y arquitecturas en la nube.
+Mi background manejando lógica de negocio en **Oracle WMS** me permite entender no solo el código, sino el *flujo operativo* de los datos en entornos logísticos e industriales. Actualmente, diseño soluciones que conectan bases de datos transaccionales con dashboards de alto impacto.
 
-- 🌱 **Especializándome en:** Data Engineering, AWS & Streamlit.
-- ⚙️ **Mi fuerte:** SQL avanzado, Python para Análisis de Datos y Optimización de procesos.
-- 🎯 **Objetivo:** Desarrollar soluciones de datos escalables que impacten el negocio.
-
----
-
-## 🛠️ Tech Stack
-
-### 📊 Data Science & Analytics
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,streamlit,powerbi,excel)](https://skillicons.dev)
-
-### ☁️ Infrastructure & Backend
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,java,nodejs,mysql,postgres,oracle)](https://skillicons.dev)
-
-### 🎨 Frontend & Tools
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,vscode)](https://skillicons.dev)
+- 🔭 **Actualmente trabajando en:** Portafolio Full Stack con **Supabase (PostgreSQL)** y **Python**.
+- 🌱 **Especializándome en:** Data Engineering Pipelines & Cloud Architecture.
+- ⚙️ **Mi Stack Favorito:** Python + SQL + Streamlit + Cloud DBs.
+- 🎯 **Objetivo:** Construir sistemas ETL resilientes y escalables.
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🛠️ Tech Stack & Herramientas
 
-### 📊 [Portafolio Data Engineer (Ver App en Vivo)](https://pjcordova-portafolio.streamlit.app)
-> Plataforma interactiva centralizada que demuestra mis capacidades en ingeniería de datos y desarrollo web.
-> * **Tech:** Python, Streamlit, Pandas, GitHub Actions.
-> * **Features:** Visualización de KPIs, descarga de CV, integración de proyectos.
+### ☁️ Cloud & Database Architecture
+[![My Skills](https://skillicons.dev/icons?i=supabase,postgres,aws,mysql,oracle,docker,linux)](https://skillicons.dev)
 
----
+### 📊 Data Science & Backend logic
+[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,fastapi,java)](https://skillicons.dev)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pjcordova&theme=git_dimmed&no-frame=true&margin-w=15" alt="trophies" />
-</p>
-
-## 📊 Estadísticas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pjcordova&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjcordova&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🎨 Frontend & Visualization
+[![My Skills](https://skillicons.dev/icons?i=streamlit,powerbi,react,html,css,git,github)](https://skillicons.dev)
 
 ---
 
-## 📫 Conectemos:
-<p align="center">
-  <a href="https://www.linkedin.com/in/piero-cordova-cerna-5a9886318/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cordova23piero@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://pjcordova-portafolio.streamlit.app" target="blank">
-    <img src="https://img.shields.io/badge/Portafolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-</p>
+## 🚀 Proyecto Insignia: Data Engineering Portfolio
 
-<p align="center">
-  <i>"El código es la herramienta, los datos son la verdad."</i>
-</p>
+> **[Ver Aplicación en Vivo](https://pjcordova-portafolio.streamlit.app)** > Un sistema centralizado Full Stack desplegado en la nube.
+
+**Arquitectura del Sistema:**
+```mermaid
+graph LR
+    User([Usuario / Reclutador]) -- HTTPS --> Streamlit(Frontend App)
+    Streamlit -- Python Driver --> Pooler{Connection Pooler}
+    Pooler -- Puerto 6543 --> Supabase[(Supabase PostgreSQL)]
+    Supabase -- Datos JSON --> Streamlit
+    Streamlit -- Render --> User
